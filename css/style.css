@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&display=swap');
+body {
+  font-family: 'Mochiy Pop One', sans-serif;
+  text-align : center;
+}
+.main img {
+  height: 400px;
+  margin-left:40px;
+  vertical-align: middle;
+}
+.navi {
+  text-align: center;
+}
+button {
+  margin: 10px auto;
+  font-size: 24px;
+}
+.title {
+  font-size: xx-large;
+  font-family: 'Mochiy Pop One', sans-serif;
+}
+.thumbnails .selected {
+  opacity: 1.0;
+}
